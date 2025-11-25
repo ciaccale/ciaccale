@@ -14,4 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm learning how to use this site
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Chi sono</title>
+    <link rel="stylesheet" href="css/stile.css">
+</head>
+<body>
+
+<header>
+    <h1>Chi sono</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="chi-sono.html">Chi sono</a>
+    <a href="servizi.html">Servizi</a>
+    <a href="contatti.html">Contatti</a>
+</nav>
+
+<div class="container">
+    <h2>Dott. Mario Rossi – Biologo Nutrizionista</h2>
+    <p>
+        Laureato in Scienze dell’Alimentazione, aiuto persone di tutte le età a raggiungere i 
+        propri obiettivi attraverso piani nutrizionali scientifici e personalizzati.
+    </p>
+</div>
+
+<footer>
+    © 2025 Studio Nutrizione
+</footer>
+
+</body>
+</html>
